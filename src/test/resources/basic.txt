@@ -1,0 +1,3 @@
+Gabor:Szabina
+Szabina:Dorottya,Gabor
+Beatrix:Szabina

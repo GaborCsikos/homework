@@ -1,0 +1,4 @@
+Gabor:Beatrix
+Szabina:Gabor
+Beatix:Szabina
+Gabor:Szabina

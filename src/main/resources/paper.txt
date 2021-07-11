@@ -1,0 +1,8 @@
+Gabor:Szabina
+Szabina:Gabor
+Dorottya:Szabina,Gergely
+Beatrix:Gabor
+Gergely:Gergely,Szabina
+Gabor:Gergely
+Beatrix:Beatrix,Szabina
+Szabina:Szabina
